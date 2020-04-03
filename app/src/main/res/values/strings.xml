@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KoTest</string>
+    <string name="btn_click_me_text">Click Me!</string>
 </resources>
